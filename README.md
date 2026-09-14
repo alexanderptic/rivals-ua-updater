@@ -73,6 +73,20 @@ dsound.dll   bb8767f918c52a2ad055d2de9baffd2478598643b9894f09abd20d1f1ffd170c
 `dsound.dll` — це [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader)
 (MIT), відкритий проєкт, не наш.
 
+## Ліцензія
+
+Код цього репозиторію — під **MIT**: користуйтеся, змінюйте, поширюйте,
+вимога одна — зберегти текст ліцензії.
+
+MIT поширюється **лише на наш код**. Завантажувач модів, що їде в архіві
+релізу, — чужий: `dsound.dll` це
+[Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader)
+(теж MIT, текст ліцензії лежить в архіві поруч із бібліотекою), а
+`.asi`-плагін обходу перевірки підпису має власне авторство, яке ми окремо
+не встановлювали.
+
+Сам переклад — не код і під цю ліцензію не підпадає.
+
 ## Підтримка
 
 Discord: https://discord.gg/HDPdYC7q9F
